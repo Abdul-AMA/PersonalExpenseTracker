@@ -1,0 +1,66 @@
+{
+    "income": 3000.0,
+    "expenses": [
+        {
+            "description": "Groceries",
+            "amount": 200,
+            "category": "Food",
+            "date": "2025-05-07"
+        },
+        {
+            "description": "Bus pass",
+            "amount": 100,
+            "category": "Transport",
+            "date": "2025-05-07"
+        },
+        {
+            "description": "Movies",
+            "amount": 50,
+            "category": "Entertainment",
+            "date": "2025-05-07"
+        },
+        {
+            "description": "Groceries",
+            "amount": 200,
+            "category": "Food",
+            "date": "2025-05-07"
+        },
+        {
+            "description": "Bus pass",
+            "amount": 100,
+            "category": "Transport",
+            "date": "2025-05-07"
+        },
+        {
+            "description": "Movies",
+            "amount": 50,
+            "category": "Entertainment",
+            "date": "2025-05-07"
+        },
+        {
+            "description": "veges",
+            "amount": 35,
+            "category": "Food",
+            "date": "2025-05-07"
+        },
+        {
+            "description": "new gaming console",
+            "amount": 500,
+            "category": "Entertainment",
+            "date": "2025-05-07"
+        },
+        {
+            "description": "uni fees",
+            "amount": 1200,
+            "category": "education",
+            "date": "2025-05-07"
+        },
+        {
+            "description": "home rent",
+            "amount": 1500,
+            "category": "house",
+            "date": "2025-05-07"
+        }
+    ],
+    "savings": -935.0
+}
